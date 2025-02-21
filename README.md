@@ -34,3 +34,4 @@ To run backend of this project, you will need to add the following environment v
 ### @Ujjwal
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/504cdafe-803f-42b9-ba65-cbd50cc8877d)
