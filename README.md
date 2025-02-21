@@ -26,10 +26,11 @@ To run backend of this project, you will need to add the following environment v
 
 ## Tech Stack
 ### Frontend:
-### Language: JavaScript
+#### Language: JavaScript
 #### UI Libraries: React, React Router
-### Icons Library: React Icons
+#### Icons Library: React Icons
 
 ## Author
-## @Ujjwal
-Screenshots
+### @Ujjwal
+
+## Screenshots
